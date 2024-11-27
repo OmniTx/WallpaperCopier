@@ -10,6 +10,20 @@ Wallpaper Copier is a PowerShell script that creates a graphical user interface 
 - **Unique Filename Generation**: Ensures each copied wallpaper has a unique filename based on the date and time.
 - **About Dialog**: Displays information about the application and its developer.
 
+## Preview
+
+### Main Window
+![Main Window](images/main_window.png)
+
+### Browse Dialog
+![Browse Dialog](images/browse_dialog.png)
+
+### Copy Operation
+![Copy Operation](images/copy_operation.png)
+
+### Theme Switch
+![Theme Switch](images/theme_switch.png)
+
 ## Requirements
 
 - PowerShell
