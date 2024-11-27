@@ -75,3 +75,4 @@ Wallpaper Copier is a PowerShell script that creates a graphical user interface 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
